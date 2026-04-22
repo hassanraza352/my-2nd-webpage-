@@ -1,2 +1,2 @@
 # my-2nd-webpage-
-just made a simple web page using HTML and CSS soon add some exciting animation and will add  javascript also 
+A modern music company landing page designed for promotion and audience engagement. Features vibrant UI, music-themed visuals, and smooth user experience for publicity. Built using HTML, CSS to showcase brand identity and attract music lovers
